@@ -13,7 +13,7 @@ void draw() {
 }
 void scale(int x, int y) {
  fill(#62191A);
- arc(x, y, 120, 120, 0, PI+QUARTER_PI, PIE);
+ arc(x, y, 120, 120, 0, PI+QUARTER_PI);
  fill(#165216);
- arc(x, y, 100, 100, 0, PI+QUARTER_PI, PIE);
+ arc(x, y, 100, 100, 0, PI+QUARTER_PI);
 }
